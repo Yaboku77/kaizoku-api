@@ -1,0 +1,16 @@
+{
+  "name": "kaizoku-api",
+  "version": "1.0.0",
+  "description": "A full-featured anime API for a single provider, inspired by Consumet.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2"
+  }
+}
