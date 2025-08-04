@@ -58,7 +58,7 @@ app.get('/', (req, res) => {
             'recent-episodes': '/recent-episodes',
             'top-airing': '/top-airing',
         },
-        author: 'Gemini',
+        author: 'kaizoku',
     });
 });
 
